@@ -17,11 +17,13 @@
     "plants": [
         {
             "name":"Sunflower",
-            "asset":"sunflower.png"
+            "asset":"sunflower.png",
+            "card":"sunflowerCard.png"
         },
         {
             "name":"Pea Shooter",
-            "asset":"peaShooter.png"
+            "asset":"peaShooter.png",
+            "card":"peaShooterCard.png"
         }
     ],
     "zombies": [
@@ -38,10 +40,15 @@
     ],
     "collectable":[
         {
-            "name":"sun"
+            "name":"sun",
+            "asset":"sun.png"
         },
         {
-            "name":"coin"
+            "name":"coin",
+            "asset":"coin.png"
+        },
+        {
+            "name":"card"
         }
 
     ]
