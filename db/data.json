@@ -1,0 +1,40 @@
+{
+    "stage": {
+        "width": 800,
+        "height": 600,
+        "rows": 5,
+        "columns": 9,
+        "gutter": 50,
+        "background": "background.png"
+    },
+    "levels": [
+        {
+            "number":1,
+            "sun":200,
+            "foreground":"level1.png" /* 700X500 64X64 576X320 */
+        }
+    ],
+    "plants": [
+        {
+            "name":"Sunflower",
+            "asset":"sunflower.png"
+        },
+        {
+            "name":"Pea Shooter",
+            "asset":"peaShooter.png"
+        }
+    ],
+    "zombies": [
+        {
+            "name": "Steve",
+            "assest":"steve.png"
+        }
+    ],
+    "bullets":[
+        {
+            "name":"Pea",
+            "assest":"pea.png"
+        }
+    ]
+
+}
