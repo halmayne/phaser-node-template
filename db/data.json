@@ -35,6 +35,15 @@
             "name":"Pea",
             "assest":"pea.png"
         }
+    ],
+    "collectable":[
+        {
+            "name":"sun"
+        },
+        {
+            "name":"coin"
+        }
+
     ]
 
 }
